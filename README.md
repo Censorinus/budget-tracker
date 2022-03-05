@@ -12,7 +12,7 @@ This is a progressive web app (PWA) designed to allow the user to track deposits
 * [Contributions](*contributions)
 * [Questions](*questions)
 
-<img width="1414" alt="Screen Shot 2021-10-03 at 7 29 02 PM" src="">
+<img width="1414" alt="Screen Shot 2021-10-03 at 7 29 02 PM" src="https://github.com/Censorinus/budget-tracker/blob/main/public/images/2022-03-05.png">
 
 # Installation 
 
