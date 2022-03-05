@@ -24,7 +24,7 @@ To start the app's server, run the following in your command line: npm start
 
 # Usage
 
-To use the app, visit this link to the current deployment: 
+To use the app, visit this link to the current deployment: https://dashboard.heroku.com/apps/budget-watcher
 
 # License
 
